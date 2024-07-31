@@ -3,10 +3,10 @@
 #include <string.h>
 
 /**
-* get_op_func - ...
-* @s: ...
+* get_op_func - This is a function to get the operator
+* @s: This is another to create
 *
-* Return: ...
+* Return: This returns
 */
 int (*get_op_func(char *s))(int, int)
 {
